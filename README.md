@@ -1,2 +1,2 @@
-# Passer
+# WStress
 WStress
